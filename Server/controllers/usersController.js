@@ -1,12 +1,12 @@
 const usersController = (router, service) => {
-    const userService = service
+  const userService = service
 
-    router.get('/getAllusers', (_, res, next) => {
-        const users = userService.getAllusers()
+  router.get('/getAllUsers', (_, res, next) => {
+    const users = userService.getAllUsers()
 
-        res.data= users
+    res.data = users
 
-        next() 
-    })
+    next()
+  })
 }
 module.exports = usersController

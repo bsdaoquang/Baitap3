@@ -1,7 +1,7 @@
 const formatData = (_, res) => {
-    const status = res.statusCode ? res.statuscode : 200
-    const data = res.data
+  const status = res.statusCode ? res.statuscode : 200
+  const data = res.data
 
-    res.status(status).json({data})
+  res.status(200).json({ data })
 }
 module.exports = formatData
