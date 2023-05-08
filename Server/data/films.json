@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "isFree":true,
+      "name": "Titanic",
+      "isFree": true
+    },
+    {
+      "id": 2,
+      "isFree":true,
+      "name": "Avenger",
+      "isFree": false
+    },
+    {
+      "id": 3,
+      "isFree":true,
+      "name": "Iron Man",
+      "isFree": false
+    },
+    {
+      "id": 4,
+      "isFree":true,
+      "name": "Batman",
+      "isFree": false
+    },
+    {
+      "id": 5,
+      "isFree":true,
+      "name": "Iron Man 2",
+      "isFree": false
+    },
+    {
+      "id": 6,
+      "isFree":true,
+      "name": "Iron Man 3",
+      "isFree": false
+    },
+    {
+      "id": 7,
+      "isFree":true,
+      "name": "Tenet",
+      "isFree": false
+    },
+    {
+      "id": 8,
+      "isFree":true,
+      "name": "Inception",
+      "isFree": true
+    }
+]
